@@ -1,2 +1,2 @@
 # TEAP
-Tópicos Essenciais a Programação
+Tópicos Essenciais à Programação
